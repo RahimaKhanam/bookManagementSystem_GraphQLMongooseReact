@@ -2,9 +2,7 @@ import React, { Component } from "react";
 import {
   ApolloClient,
   InMemoryCache,
-  ApolloProvider,
-  useQuery,
-  gql,
+  ApolloProvider
 } from "@apollo/client";
 
 // components
